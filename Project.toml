@@ -1,0 +1,7 @@
+name = "TestPS"
+uuid = "ee8136e1-8ab8-4f82-9d0a-b3a4bb2f4608"
+authors = ["Mauro Werder <mauro3@runbox.com>"]
+version = "0.1.0"
+
+[deps]
+ParallelStencil = "94395366-693c-11ea-3b26-d9b7aac5d958"
